@@ -11,8 +11,6 @@ Spring Boot CRUD Web application for employee management system
 ### Architecture
 ![](ss/arch.jpg)
 
-## Step by Step Process
-https://www.javaguides.net/2020/06/pagination-and-sorting-with-spring-boot-thymeleaf-spring-data-jpa-hibernate-mysql.html
 
 ### Reference Documentation
 For further reference, please consider the following sections:
